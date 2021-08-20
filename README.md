@@ -5,11 +5,9 @@
 </p>
 
 
-- 🔭 I’m currently working on **A Cloud Storage Service** and a **cool open source project** called [Linker](https://github.com/DipandaAser/linker)
-- 🌱 I’m currently learning **Flutter**
-- 💬 Ask me about **Go, Mongo, Windev**
+- 🔭 I’m currently working on **[A Cloud Storage Service](https://gamesmania.io)** and a **open source monetization platform** called [Yotas](https://github.com/osscameroon/yotas)
+- 💬 Ask me about **Go, Mongo, Windev, Flutter**
 - 📫 How to reach me: [@iamdipanda](https://twitter.com/iamdipanda) on Twitter, [@aser-dipanda](https://www.linkedin.com/in/aser-dipanda/) on Linkedin
-- ⚡ Fun fact: I love spend two hours to build a bot instead of two minuts to do habitual things manually
 
 -------
 
