@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hello! I'm Aser.</h2>
+<h2 align="center">�<img src="https://github.com/gabriel-TheCode/gabriel-TheCode/blob/master/gifs/Hi.gif" width="30px"></h2> Hello! I'm Aser.</h2>
 <p align="center">
   <a href="https://twitter.com/iamdipanda">Twitter</a> - 
   <a href="https://www.linkedin.com/in/aser-dipanda/">Linkedin</a>
