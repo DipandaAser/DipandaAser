@@ -22,11 +22,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Total: 11 hrs 45 mins
+Total: 5 hrs 50 mins
 
-Go       11 hrs 17 mins  ████████████████████████░   96.06 % 
-JSON     26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-Python   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+Go     5 hrs 34 mins   ███████████████████████▓░   95.30 % 
+JSON   16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
 ```
 <!--END_SECTION:waka-->
 
