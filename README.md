@@ -22,10 +22,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-Total: 5 hrs 50 mins
-
-Go     5 hrs 34 mins   ███████████████████████▓░   95.30 % 
-JSON   16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
+Go     5 hrs 26 mins   ████████████████████████░   95.41 % 
+JSON   15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
 ```
 <!--END_SECTION:waka-->
 
