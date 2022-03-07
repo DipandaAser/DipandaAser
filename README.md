@@ -23,9 +23,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Caddyfile    20 mins         █████████████████████▒░░░   84.92 %
-HTML         3 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.38 %
-JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
