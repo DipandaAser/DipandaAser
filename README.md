@@ -23,7 +23,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Caddyfile   8 mins          ██████████████░░░░░░░░░░░   56.32 %
+JSON        3 mins          ██████░░░░░░░░░░░░░░░░░░░   23.64 %
+systemd     2 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.83 %
+Other       0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
 ```
 
 <!--END_SECTION:waka-->
