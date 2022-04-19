@@ -5,7 +5,7 @@
 </p>
 
 
-- 🔭 I’m currently working on a open source rewarding system called [Yotas](https://github.com/osscameroon/yotas)
+- 🔭 Software engineer and contributor at [Oss Cameroon](https://github.com/osscameroon)
 - 💬 Ask me about **Go, Mongo, Windev, Flutter, HTTP Live Streaming**
 - 📫 How to reach me: [@iamdipanda](https://twitter.com/iamdipanda) on Twitter, [@aser-dipanda](https://www.linkedin.com/in/aser-dipanda/) on Linkedin
 
