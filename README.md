@@ -23,11 +23,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript       5 hrs 45 mins   ██████████▒░░░░░░░░░░░░░░   41.42 %
-JavaScript       2 hrs 12 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.89 %
-Go               2 hrs 10 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.68 %
-Svelte           1 hr 4 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 %
-Makefile         39 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 %
+TypeScript       4 hrs 52 mins   █████████▓░░░░░░░░░░░░░░░   38.03 %
+Go               2 hrs 26 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.00 %
+JavaScript       1 hr 57 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.22 %
+Svelte           1 hr 4 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 %
+Makefile         42 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.49 %
 ```
 
 <!--END_SECTION:waka-->
