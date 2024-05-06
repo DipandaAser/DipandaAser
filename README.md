@@ -26,11 +26,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Go                   8 hrs 14 mins   ████████████▒░░░░░░░░░░░░   49.90 %
-Svelte               4 hrs 4 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.71 %
-TypeScript           1 hr 6 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.75 %
-PowerShell           1 hr 2 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.36 %
-JavaScript           37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
+Go                   8 hrs 38 mins   ████████████▓░░░░░░░░░░░░   50.98 %
+Svelte               4 hrs 4 mins    ██████░░░░░░░░░░░░░░░░░░░   24.06 %
+TypeScript           1 hr 9 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.82 %
+PowerShell           1 hr 2 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.19 %
+JavaScript           37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
 ```
 
 <!--END_SECTION:waka-->
