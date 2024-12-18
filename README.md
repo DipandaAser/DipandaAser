@@ -26,8 +26,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C             49 mins         ████████████████████████▓   99.16 %
-Objective-C   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
