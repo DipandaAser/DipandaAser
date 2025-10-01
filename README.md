@@ -21,7 +21,8 @@
 - **[GM HFSQL](https://gamesmania.io)** a hosting platform for [Wlangage | Webdev](https://pcsoft.fr/webdev/index.html) websites and [hfsql](https://pcsoft.fr/accueilpub/hfsql.htm) databases.
 -------
 
-📊 **Weekly development breakdown**
+
+<!--📊 **Weekly development breakdown**-->
 
 <!--START_SECTION:waka-->
 
