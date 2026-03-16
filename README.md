@@ -1,6 +1,5 @@
 <h2 align="center"> <img src="https://github.com/gabriel-TheCode/gabriel-TheCode/blob/master/gifs/Hi.gif" width="30px"> Hello! I'm Aser.</h2>
 <p align="center">
-  <a href="https://twitter.com/iamdipanda">Twitter</a> - 
   <a href="https://www.linkedin.com/in/aser-dipanda/">Linkedin</a> -
   <a href="mailto:aserdipanda@gmail.com">Email</a>
 </p>
@@ -8,7 +7,7 @@
 
 - 🔭 Software engineer and contributor at [Oss Cameroon](https://github.com/osscameroon)
 - 💬 Ask me about **Go, Svelte & SVelteKit, Mongo, Windev, HTTP Live Streaming**
-- 📫 How to reach me: [@iamdipanda](https://twitter.com/iamdipanda) on Twitter, [@aser-dipanda](https://www.linkedin.com/in/aser-dipanda/) on Linkedin
+- 📫 How to reach me: [@aser-dipanda](https://www.linkedin.com/in/aser-dipanda/) on Linkedin
 
 -------
 
